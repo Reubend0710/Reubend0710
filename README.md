@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Reubend0710
-- 👀 I’m interested in Web and mobile development
-- 🌱 I’m currently learning reactjs,mongodb and tailwind.
+-👋 Hi, I’m @Reubend0710
+- 👀 I’m a full stack developer
+- 🌱 looking forward on implementing my skills on various projects with big Mnc's
 - 💞️ I’m looking to collaborate on different projects
 
 
